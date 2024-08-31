@@ -1,4 +1,4 @@
-## Parking Management Application
+# Parking Management Application
 
 ## Purpose
 
